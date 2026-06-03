@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bmc-insurance-agency-hinckley.vercel.app/sitemap.xml

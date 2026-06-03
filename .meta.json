@@ -1,0 +1,30 @@
+{
+  "name": "BMC Insurance Agency",
+  "town": "Hinckley IL",
+  "type": "insurance agency",
+  "address": "153 E Lincoln Ave, Hinckley, IL 60520",
+  "phone": "8152863273",
+  "checklistComplete": 9,
+  "ownerEmail": "mm.samscarey@gmail.com",
+  "ownerEmailSource": "chamber",
+  "ownerEmailType": "personal",
+  "ownerEmailNotes": "Listed for owner Melissa Sams-Carey on the Hinckley Business Association member directory.",
+  "outreachEligible": true,
+  "bookingUrl": "",
+  "designNotes": "Corporate-trust, NOT beige: cool light gray #F6F7F9 bg, slate navy #1E2A44, amber #D98E2B accent. Libre Franklin + Source Sans 3. Layered Canva hero over Unsplash office fallback + navy gradient. Schema InsuranceAgency. Email CTA to owner gmail. Logo: text wordmark (FB Graph egress blocked).",
+  "aiAssets": {
+    "logo": { "source": "text_wordmark", "url": null },
+    "hero": {
+      "generated": true,
+      "source": "canva",
+      "designId": "DAHLfQZPfNg",
+      "viewUrl": "https://www.canva.com/d/3AKjJSURSKdCXjf",
+      "exportUrl": "https://export-download.canva.com/ZPfNg/DAHLfQZPfNg/-1/0/0001-9039229664900629329.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH5AO7UJ26%2F20260603%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260603T032217Z&X-Amz-Expires=12488&X-Amz-Signature=b99276db9a0e25c461c4acd20a4c5f4702847d3aadacf7e3aa507aa07b4a3eea&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Wed%2C%2003%20Jun%202026%2006%3A50%3A25%20GMT",
+      "bakeTarget": "hero.jpg"
+    },
+    "galleryEdited": false,
+    "galleryNote": "Service/coverage layout (no photo gallery); hero is bespoke Canva. Adobe Stock pipeline skipped - sandbox egress blocked."
+  },
+  "researchStartedAt": "2026-06-03T05:28:00Z",
+  "stage1FinishedAt": "2026-06-03T05:30:38Z"
+}
